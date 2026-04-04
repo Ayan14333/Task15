@@ -43,8 +43,9 @@ const findSum = (arrNum) => {
 
     // in tradition way
     // for (let i = 0; i < arrNum.length; i++) {
-    //     console.log(arrNum[i]);
+    //     sum += arrNum[i];
     // }
+    // return sum;
 
 };
 
