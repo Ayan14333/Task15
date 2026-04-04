@@ -1,1 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 
+body{
+    font-style: Arial, Helvetica, sans-serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(90, 55, 2);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color:rgb(255, 217, 0);
+    text-align: center;
+    font-size: 5rem;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    color:rgb(247, 210, 0);
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 20px;
+}
